@@ -1,0 +1,16 @@
+.jumbotron{
+  background-color: blue;
+  text-align: center;
+}
+.body{
+	font-size: 15px;
+	line-height: 18%;
+  background-color: red;
+}
+.sidebar{
+  float:left;
+  margin-top: 15%;
+}
+.centre{
+  float:right;
+}
